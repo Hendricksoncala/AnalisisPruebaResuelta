@@ -1,6 +1,8 @@
 import pandas as pd
 
 # Cargar los datos 
+# Cambia la ruta al archivo según sea necesario
+# Asegúrate de que el archivo Excel tenga la hoja 'BBDD' y que las columnas sean correctas
 archivo = "D:/PRUEBA TECNICA_ALLIEDGLOBAL.xlsx"
 base_datos = pd.read_excel(archivo, sheet_name='BBDD', engine='openpyxl')
 
