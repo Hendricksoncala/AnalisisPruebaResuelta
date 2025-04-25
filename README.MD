@@ -1,8 +1,6 @@
-Muy bien Hendrickson, ya casi lo tienes perfecto. Te ajusto el `README.md` para que esté completo, claro y sin errores de formato, especialmente en la sección final. Aquí te va todo listo para **copiar y pegar directamente**:
 
----
 
-```markdown
+```
 # 📊 Análisis de Datos - Prueba Técnica Allied Global
 
 Este proyecto carga una base de datos desde un archivo Excel, transforma los datos en una estructura relacional y genera análisis básicos usando Python y pandas.
